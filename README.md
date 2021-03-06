@@ -12,7 +12,7 @@ I am just a high school student at Suankularb Wittayalai School, Thailand, who i
 -->
 ## My Github Statistics
 Stats: <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Tempest&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Tempest&count_private=true&show_icons=true&include_all_commits=true&theme=dark) <br>
 Languages: <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Tempest&hide=TeX&layout=compact&theme=dark)
 
