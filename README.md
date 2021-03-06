@@ -11,9 +11,9 @@ I am just a high school student at Suankularb Wittayalai School, Thailand, who i
 - ⚡ Fun fact: PHP is weird
 -->
 ## My Github Statistics
-Stats: 
+Stats: <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Tempest&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-Languages: 
+Languages: <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Tempest&hide=TeX&layout=compact&theme=dark)
 
 ## My Projects and Repositories(look at them if you and to see weird stuff) ⬇
