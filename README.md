@@ -5,7 +5,7 @@ I am just a high school student at Suankularb Wittayalai School, Thailand, who i
 
 ### More about me
 - 🔭 I’m currently working on ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-- 🌱 I’m currently learning ![Tensorflow](https://img.shields.io/badge/Tensorflow-yellow?style=flat-square&logo=github) ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=github)
+- 🌱 I’m currently learning ![Tensorflow](https://img.shields.io/badge/Tensorflow-yellow?style=flat-square&logo=tensorflow) ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=github)
 - 📫 How to reach me: ![Discord](https://img.shields.io/badge/-Jimmy_Tempest%233197-black?style=flat-square&logo=Discord) 
 - ⚡ Fun fact: PHP is weird
 
