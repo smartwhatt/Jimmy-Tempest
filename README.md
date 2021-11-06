@@ -14,8 +14,6 @@ Stats: <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Tempest&count_private=true&show_icons=true&include_all_commits=true&theme=dark) <br>
 Languages: <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Tempest&theme=dark)
-This week stats:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmy-tempest)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Projects and Repositories(look at them if you and to see weird stuff) ⬇
